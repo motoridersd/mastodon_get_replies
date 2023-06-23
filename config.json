@@ -1,6 +1,6 @@
 {
   "server": "pug.ninja",
-  "home-timeline-length": 100,
+  "home-timeline-length": 10,
   "max-followings": 10,
   "from-notifications": 1
 }
